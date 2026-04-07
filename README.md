@@ -12,8 +12,6 @@
 <!-- Картинка на 100% ширина -->
 <img src="https://github.com/Dreamerol/Dreamerol/blob/9e90ca7c26417e31d60a28759b73c4b3499c3add/PYTHON.jpg" alt="Python Advanced Project" width="100%">
 
-https://github.com/Dreamerol/Dreamerol/blob/9e90ca7c26417e31d60a28759b73c4b3499c3add/PYTHON.jpg
-
 
 ---
 
