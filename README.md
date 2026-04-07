@@ -26,6 +26,16 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
   <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge\&logo=python)
+![Django](https://img.shields.io/badge/Django-Framework-darkgreen?style=for-the-badge\&logo=django)
+![Flask](https://img.shields.io/badge/Flask-Lightweight-black?style=for-the-badge\&logo=flask)
+![SQL](https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge\&logo=postgresql)
+![HTML](https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge\&logo=css3)
+![Git](https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge\&logo=git)
+![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge)
+  
   
 </p>
 
