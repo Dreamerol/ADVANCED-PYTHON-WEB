@@ -39,8 +39,20 @@
 
 </p>
 
+---
 
+<p align="center">
 
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Django-Framework-darkgreen?style=for-the-badge&logo=django" />
+<img src="https://img.shields.io/badge/Flask-Lightweight-black?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge" />
+
+</p>
 
 ---
 
@@ -68,6 +80,21 @@ It goes beyond basic exercises — showcasing the ability to **design systems, m
 
 ---
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Django-Framework-darkgreen?style=for-the-badge&logo=django" />
+<img src="https://img.shields.io/badge/Flask-Lightweight-black?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge" />
+
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -78,6 +105,21 @@ It goes beyond basic exercises — showcasing the ability to **design systems, m
 📄 HTML5 & CSS3
 🔄 HTTP Protocol
 ⚙️ Git & GitHub
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Django-Framework-darkgreen?style=for-the-badge&logo=django" />
+<img src="https://img.shields.io/badge/Flask-Lightweight-black?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge" />
 
 </p>
 
@@ -108,6 +150,21 @@ It goes beyond basic exercises — showcasing the ability to **design systems, m
 
 ---
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Django-Framework-darkgreen?style=for-the-badge&logo=django" />
+<img src="https://img.shields.io/badge/Flask-Lightweight-black?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge" />
+
+</p>
+
+---
+
 ## 🎯 Engineering Focus
 
 * Clean architecture & separation of concerns
@@ -117,12 +174,42 @@ It goes beyond basic exercises — showcasing the ability to **design systems, m
 
 ---
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Django-Framework-darkgreen?style=for-the-badge&logo=django" />
+<img src="https://img.shields.io/badge/Flask-Lightweight-black?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge" />
+
+</p>
+
+---
+
 ## 🌟 Developer Mindset
 
 <p align="center">
 💡 Turning ideas into working systems  
 ⚡ Writing code that scales  
 🎯 Building with purpose, not just practice  
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Django-Framework-darkgreen?style=for-the-badge&logo=django" />
+<img src="https://img.shields.io/badge/Flask-Lightweight-black?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge" />
+
 </p>
 
 ---
@@ -138,6 +225,25 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
 <p align="center">
 🔥 Built with passion for Python & Web Development
 </p>
+
+---
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Django-Framework-darkgreen?style=for-the-badge&logo=django" />
+<img src="https://img.shields.io/badge/Flask-Lightweight-black?style=for-the-badge&logo=flask" />
+<img src="https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge" />
+
+</p>
+
+
 
 
 
