@@ -239,7 +239,7 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
 ---
 
 <p align="center">
-  <b><i><span style="font-size: 25px;">
+  <b><i><span style="font-size: 40px;">
    🔥 Built with passion for Python & Web Development
   </span></i></b>
 </p>
