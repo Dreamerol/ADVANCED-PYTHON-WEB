@@ -1,8 +1,8 @@
 
 <h1 align="center">🐍 PYTHON WEB FUNDAMENTALS & ADVANCED</h1>
 
-<p align="center">
-  <b><i><span style="font-size: 50px;">
+ <p align="center">
+<b><i><span style="font-size: 150px;">
     🚀 Building scalable backend systems, clean architecture & real-world web applications
   </span></i></b>
 </p>
