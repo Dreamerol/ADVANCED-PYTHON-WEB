@@ -195,19 +195,6 @@ This is not just a collection of projects.
 
 It is a demonstration of **engineering thinking, problem-solving ability, and readiness for real-world development challenges.**
 
-
-<p align="center">
-  <b><i><span style="font-size: 50px;">
-   🔥 Built with passion for Python & Web Development
-  </span></i></b>
-</p>
-
-
-<p align="center">
-  🔗 Explore more on my GitHub profile: 
-  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
-</p>
-
 ---
 
 <p align="center">
@@ -222,6 +209,23 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
 <img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge" />
 
 </p>
+
+---
+
+<p align="center">
+  <b><i><span style="font-size: 50px;">
+   🔥 Built with passion for Python & Web Development
+  </span></i></b>
+</p>
+
+
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
+
+
+
 
 
 
