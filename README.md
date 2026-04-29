@@ -1,5 +1,5 @@
 
-<h1 align="center">🐍 PYTHON WEB FUNDAMENTALS & ADVANCED</h1>
+<h1 align="center">🐍 𝗣𝗬𝗧𝗛𝗢𝗡 𝗪𝗘𝗕 𝗙𝗨𝗡𝗗𝗔𝗠𝗘𝗡𝗧𝗔𝗟𝗦 & 𝗔𝗗𝗩𝗔𝗡𝗖𝗘𝗗</h1>
 
  <h2 align="center">
    <b><i><span style="font-size: 150px;">
