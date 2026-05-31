@@ -31,34 +31,6 @@ Building scalable backend systems, clean architecture & web applications
 
 
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-Expert-3E5C76?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-Framework-4F6D7A?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-Lightweight-5A7684?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-Advanced-6B7D8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-Markup-7A8895?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-Styling-8A96A3?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-Version_Control-5F6B76?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Production_Ready-435B71?style=for-the-badge&logoColor=white" />
-
-</p>
-
-
-
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Django-Framework-darkgreen?style=for-the-badge&logo=django" />
-<img src="https://img.shields.io/badge/Flask-Lightweight-black?style=for-the-badge&logo=flask" />
-<img src="https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge&logo=postgresql" />
-<img src="https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge" />
-
-</p>
 
 ---
 
